@@ -19,7 +19,7 @@ this will execute a test npm script. Please check package.json file to inspect i
 * [01 - Default Create React App Testing](https://github.com/sfrnqdr/react-jest-tdd/tree/cra-default), just to show you how to start!
 * [02 - Test App's Output](https://github.com/sfrnqdr/react-jest-tdd/tree/output-test), to make sure you're rendering components correctly.
 * [03 - Test Component States](https://github.com/sfrnqdr/react-jest-tdd/tree/state-test), to make sure you have the right states.
-* [04 - Test Events](https://github.com/sfrnqdr/react-jest-tdd/tree/event-test), to make sure events can be successfully fired/invoked during component interactions.
+* [04 - Test Events](https://github.com/sfrnqdr/react-jest-tdd/tree/events-test), to make sure events can be successfully fired/invoked during component interactions.
 * [05 - Test Props](https://github.com/sfrnqdr/react-jest-tdd/tree/props-test), to make sure props are properly send to child components.
 
 **Snapshot Test** 📷
