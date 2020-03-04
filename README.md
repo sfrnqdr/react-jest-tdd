@@ -4,9 +4,9 @@ Showcases test driven development in react
 ## Installing 🔧
 `npm i -D enzyme enzyme-adapter-react-16 react-test-renderer`
 
-* Jest: already included through create-react-app
-* Jest Snapshot Testing: react-test-renderer
-* Enzyme: enzyme enzyme-adapter-react-16
+* [Jest](https://jestjs.io/docs/en/tutorial-react): already included through create-react-app
+* [Jest Snapshot Testing](https://jestjs.io/docs/en/snapshot-testing): react-test-renderer
+* [Enzyme](https://enzymejs.github.io/enzyme/docs/installation/): enzyme enzyme-adapter-react-16
 
 `jsdom react-addons-test-utils`
 
