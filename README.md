@@ -8,9 +8,6 @@ Showcases test driven development in react
 * [Jest Snapshot Testing](https://jestjs.io/docs/en/snapshot-testing): react-test-renderer
 * [Enzyme](https://enzymejs.github.io/enzyme/docs/installation/): enzyme enzyme-adapter-react-16
 
-`jsdom react-addons-test-utils`
-
-
 ## Running 🏃
 `npm test`
 
