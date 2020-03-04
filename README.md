@@ -2,7 +2,7 @@
 Showcases test driven development in react
 
 ## Installing 🔧
-`npm i -D enzyme enzyme-adapter-react-16`
+`npm i -D enzyme enzyme-adapter-react-16 jest`
 `jsdom react-addons-test-utils react-test-renderer`
 
 
