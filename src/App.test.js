@@ -1,9 +1,9 @@
 import React from 'react';
+import { shallow } from 'enzyme';
 import App from './App';
 
-import TestRenderer from 'react-test-renderer';
-
- it('renders correctly and matched snapshot', () => {
-  const testRenderer = TestRenderer.create(<App />).toJSON();
-  expect(testRenderer).toMatchSnapshot();
+describe('<App />', () => {
+   it('renders without crashing', () => {
+      shallow(<App />);
+    });
 });
