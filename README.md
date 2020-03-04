@@ -1,6 +1,14 @@
 # react-jest-tdd
 Showcases test driven development in react
 
+## Installing 🔧
+`npm install -D enzyme jsdom react-addons-test-utils react-test-renderer`
+
+
+## Running 🏃
+
+## Unit Tests 📖
+
 **Just React** 👷
 * [01 - Default Create React App Testing](http://google.de), just to show you how to start!
 * [02 - Test App's Output](http://google.de), to make sure you're rendering components correctly.
