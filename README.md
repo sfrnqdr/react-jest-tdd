@@ -7,6 +7,9 @@ Showcases test driven development in react
 
 
 ## Running 🏃
+`npm test`
+
+this will execute a test npm script. Please check package.json file to inspect it.
 
 ## Unit Tests 📖
 
